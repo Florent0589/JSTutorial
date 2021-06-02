@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Florent0589/VannilaJSTutorial/issues"
   },
-  "homepage": "https://github.com/Florent0589/VannilaJSTutorial#readme"
+  "homepage": "https://github.com/Florent0589/VannilaJSTutorial#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }

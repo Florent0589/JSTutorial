@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Florent0589/VannilaJSTutorial#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "mysql": "^2.18.1"
   }
 }
